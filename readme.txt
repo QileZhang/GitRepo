@@ -9,4 +9,8 @@ add merge
 issue
 
 >>>>>>> dev
+<<<<<<< HEAD
  this is not master
+=======
+this is master
+>>>>>>> d7467caaf85a42387475ea25bf801eb3dabcb205
